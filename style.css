@@ -1,0 +1,332 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.container-fluid {
+
+    padding:0% 8%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+    font-family: 'Roboto Mono', monospace;
+}
+
+a {
+
+    color:#373a40;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color:#19d3da;
+}
+
+
+
+/*NavBar*/
+
+#title {
+    background-color: #eeeeee;
+    
+}
+
+
+
+.nav-link {
+    margin-left:20px;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: none;
+    color:#373a40;
+    
+}
+
+.navbar-brand {
+    width:15%;
+}
+
+/*Home Section*/
+
+#remastered {
+    padding-top:2%;
+    text-align: center;
+}
+
+.top-h1:hover {
+   
+   color:#19d3da;
+   opacity:0.5;
+  
+}
+
+
+.top-h5 {
+
+    padding-top:2%;
+}
+
+.t-line {
+    background-color: #eeeeee;
+}
+
+.m-line {
+    background-color: #373a40;
+}
+
+.row {
+
+    padding-top:2%;
+}
+
+.ranking-container {
+   text-align: left;
+   background-color: #686d76;
+   color:#eeeeee;
+   border-radius: 2%;
+   opacity:0.8;
+}
+
+.mid-container {
+    background-color: #eeeeee;
+    border-radius: 2%;
+}
+
+#remastered .container-box {
+
+    padding:5%;
+}
+
+#remastered .container-box2 {
+
+    padding-top:3%;
+}
+
+#remastered h5 {
+
+    color:#373a40;
+}
+
+#remastered button {
+
+    margin-top: 2%;
+   
+}
+
+
+/*Week*/
+
+#week {
+
+    text-align: center;
+    padding-top:1%;
+}
+
+.week-link {
+    color:#373a40;
+    font-size:1.2rem;
+}
+
+
+/*Prize*/
+
+#prize {
+    text-align: center;
+    padding-top:4%;
+    
+}
+
+#prize .container-fluid {
+    
+    width:30%;
+    
+    padding:1%;
+}
+
+.prize-container {
+    padding:1%;
+    
+   
+    
+}
+
+.row-0 {
+    background-color: #eeeeee;
+    border: 0.1px solid black;
+    border-radius: 4px;
+}
+
+.row-1 {
+    background-color: #fafcc2;
+    border: 0.1px solid black;
+    border-radius: 4px;
+    
+}
+
+.row-2 {
+    background-color: #eeeeee;
+    border: 0.1px solid black;
+    border-radius: 4px;
+}
+.row-3 {
+    background-color: #f6d6ad;
+    border: 0.1px solid black;
+    border-radius: 4px;
+}
+
+/*MAPS*/
+
+
+#maps {
+    text-align: center;
+    padding-top:4%;
+    
+}
+
+.maps-img {
+
+    width:100%;
+}
+
+#maps .row {
+
+    padding-top:4%;
+}
+
+#maps h6 {
+    color:#373a40;
+    font-weight: 400;
+    font-size: 1.2rem;
+    
+}
+
+/*Lista de players*/
+
+#players {
+    padding:2%;
+    margin-top:4%;
+    background-color:#eeeeee;
+}
+
+#players h6 {
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+/*REPLAYS*/
+
+#replays {
+
+    padding-top:4%;
+}
+
+#replays h6 {
+
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+#replays a {
+
+    font-size: 0.8rem;
+}
+
+/*TABELA*/
+
+#tabela {
+    text-align: center;
+    padding-top:4%;
+}
+
+#tabela h6 {
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+#tabela a {
+    font-size: 0.8rem;
+}
+
+/*FOOTED*/
+
+
+#footed {
+
+    text-align: center;
+    padding:8% 0 0;
+    
+}
+
+
+
+#footed p {
+    padding-top: 1%;
+    font-size:0.8rem;
+    color:#0f0f11;
+    letter-spacing: 0.1rem;
+  
+   
+}
+
+/*REGRAS*/
+
+#regras {
+    text-align: left;
+    background-color: #eeeeee;
+    margin-top:2%;
+}
+
+/*Inscriçao*/
+
+#form .row{
+    margin:2% 12%;
+}
+
+
+
+.first-content {
+    padding:15%;
+    background-color: #19d3da;
+    border-radius: 2%;
+    border: solid 1px black;
+}
+.second-content {
+   
+    padding:5%;
+    border-radius: 2%;
+    border: solid 1px black;
+}
+
+#form h2 {
+    line-height: 1.8;
+}
+
+#form p {
+    padding:2%;
+    font-weight: bolder;
+}
+
+#form input {
+    padding:1%;
+    margin:1%;
+    
+}
+
+#form label {
+    padding-top:2%;
+}
+
+#form .btn {
+
+    background-color:#19d3da;
+    padding:1% 6%;
+    border: solid 1px black;
+    
+}
+
+#form .btn:hover {
+    color:tomato;
+    background-color:#eeeeee;
+}
